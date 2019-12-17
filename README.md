@@ -10,3 +10,8 @@ Institutional Module; decides water allocation (for now based on simple nodes)
 CWATM 
 
 Forked by Peter B
+
+## For Reading Jupyter Notebooks
+Navigate in a browser to: https://nbviewer.jupyter.org/
+Copy the .ipybn link and paste into nbviewer
+https://github.com/ajainf/NiraRiverSaratiTests/blob/master/Rivers.ipynb

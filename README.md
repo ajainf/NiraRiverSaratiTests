@@ -15,3 +15,8 @@ Forked by Peter B
 Navigate in a browser to: https://nbviewer.jupyter.org/
 Copy the .ipybn link and paste into nbviewer
 https://github.com/ajainf/NiraRiverSaratiTests/blob/master/Rivers.ipynb
+
+## To Do:
+Branch out via Git Bash by person
+Naming convention: initials_date_shortdescription (less than 40 char)
+AJF_2019Dec17_Integrationv1
